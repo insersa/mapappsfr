@@ -35,7 +35,7 @@ How to work with this bundle **mapappsfr**, you have to add the reference in you
     	                    "legend",
     	                    
 							// French traduction
-    	                    **"mapappsfr"**,
+    	                    "mapappsfr",
 
 
     	],
