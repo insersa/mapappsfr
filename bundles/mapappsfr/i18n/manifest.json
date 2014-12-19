@@ -1,0 +1,8 @@
+{
+    "Bundle-SymbolicName": "mapappsfr",
+    "Bundle-Version": "1.0.0",
+    "Bundle-StartLevel": 1,
+    "Bundle-Localization": [],
+    "Bundle-Main": "",
+    "i18n-extension" : ["bundle"]
+}
