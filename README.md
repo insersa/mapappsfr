@@ -1,10 +1,10 @@
 
 #Map.apps French Translation
 ## Introduction
-You find in this repository, the bundle for the french translation for map.apps 3.1.0
+You find in this repository, the bundle for the french translation of map.apps bundles.
 
 ## Configuration
-How to work with this bundle **mapappsfr**, you have to add the reference in your app.json :
+How to work with the **mapappsfr** bundle ,you have to add the reference in your app.json in the allowedBundles section :
 
 ```
 {
@@ -53,3 +53,7 @@ How to work with this bundle **mapappsfr**, you have to add the reference in you
 ```
    
 [More informations on map.apps site](http://developernetwork.conterra.de/).
+
+## Compatibility
+This bundle works with map.apps version : **3.1.0**.
+
