@@ -6,10 +6,10 @@ You find in this repository, the bundle for the french translation for map.apps 
 ## Configuration
 How to work with this bundle **mapappsfr**, you have to add the reference in your app.json :
 
-
+```
 {
     "load": {
-    	"bundleLocations" : ["bundles","isbundles","oatbundles"],
+    	"bundleLocations" : ["bundles"],
     	
     	"allowedBundles" : [
     	                    // debug
@@ -47,8 +47,9 @@ How to work with this bundle **mapappsfr**, you have to add the reference in you
         ]
     },
     "bundles" : {
-    ...
+		..
 	}
 }
-    
+```
+   
 [More informations on map.apps site](http://developernetwork.conterra.de/).
